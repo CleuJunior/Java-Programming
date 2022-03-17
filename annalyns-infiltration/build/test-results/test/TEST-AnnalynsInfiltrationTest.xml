@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnnalynsInfiltrationTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2022-03-17T15:29:17" hostname="CLEONILDO-JUNIO" time="0.034">
+  <properties/>
+  <testcase name="can_spy_if_everyone_but_prisoner_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.029"/>
+  <testcase name="cannot_release_prisoner_if_only_archer_is_asleep_and_pet_dog_is_absent" classname="AnnalynsInfiltrationTest" time="0.001"/>
+  <testcase name="cannot_signal_prisoner_if_archer_is_awake_and_prisoner_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_signal_prisoner_if_archer_and_prisoner_are_both_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_only_knight_is_awake_and_pet_dog_is_absent" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_everyone_is_asleep_and_pet_dog_is_absent" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_only_prisoner_is_asleep_and_pet_dog_is_present" classname="AnnalynsInfiltrationTest" time="0.001"/>
+  <testcase name="can_spy_if_only_knight_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_everyone_is_awake_and_pet_dog_is_absent" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_spy_if_everyone_is_awake" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_execute_fast_attack_if_knight_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_release_prisoner_if_only_archer_is_asleep_and_pet_dog_is_present" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_release_prisoner_if_everyone_is_asleep_and_pet_dog_is_present" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_spy_if_only_archer_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_execute_fast_attack_if_knight_is_awake" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_only_archer_is_awake_and_pet_dog_is_absent" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_release_prisoner_if_only_knight_is_awake_and_pet_dog_is_present" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_only_knight_is_asleep_and_pet_dog_is_absent" classname="AnnalynsInfiltrationTest" time="0.001"/>
+  <testcase name="can_release_prisoner_if_only_prisoner_is_awake_and_pet_dog_is_present" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_release_prisoner_if_only_prisoner_is_awake_and_pet_dog_is_absent" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_spy_if_only_prisoner_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_only_knight_is_asleep_and_pet_dog_is_present" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_spy_if_everyone_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_only_archer_is_awake_and_pet_dog_is_present" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_signal_prisoner_if_archer_is_sleeping_and_prisoner_is_awake" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_everyone_is_awake_and_pet_dog_is_present" classname="AnnalynsInfiltrationTest" time="0.001"/>
+  <testcase name="can_spy_if_everyone_but_knight_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_release_prisoner_if_only_prisoner_is_asleep_and_pet_dog_is_absent" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="can_spy_if_everyone_but_archer_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <testcase name="cannot_signal_prisoner_if_archer_and_prisoner_are_both_awake" classname="AnnalynsInfiltrationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
