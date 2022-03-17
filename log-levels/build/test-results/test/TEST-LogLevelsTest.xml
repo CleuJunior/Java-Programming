@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogLevelsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-03-17T18:47:21" hostname="CLEONILDO-JUNIO" time="0.034">
+  <properties/>
+  <testcase name="message_with_leading_and_trailing_white_space" classname="LogLevelsTest" time="0.032"/>
+  <testcase name="info_message" classname="LogLevelsTest" time="0.0"/>
+  <testcase name="error_message" classname="LogLevelsTest" time="0.0"/>
+  <testcase name="reformat_with_leading_and_trailing_white_space" classname="LogLevelsTest" time="0.0"/>
+  <testcase name="info_log_level" classname="LogLevelsTest" time="0.0"/>
+  <testcase name="error_reformat" classname="LogLevelsTest" time="0.0"/>
+  <testcase name="error_log_level" classname="LogLevelsTest" time="0.0"/>
+  <testcase name="info_reformat" classname="LogLevelsTest" time="0.0"/>
+  <testcase name="warning_reformat" classname="LogLevelsTest" time="0.0"/>
+  <testcase name="warning_log_level" classname="LogLevelsTest" time="0.0"/>
+  <testcase name="warning_message" classname="LogLevelsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
