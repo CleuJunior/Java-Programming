@@ -11,7 +11,7 @@ e toda seu programa de estudos. Cada desafio proposto é passado por uma liste d
 
 ## Syllabus Java Road
 
-### Basics :heavy_check_mark:
+### Basics :white_check_mark:
 
 
 | Title             | Quick description                                                                                                      | Full Description                                                                | My Solution                                                                                                            | Used Tests                                                                                                              |
@@ -20,9 +20,22 @@ e toda seu programa de estudos. Cada desafio proposto é passado por uma liste d
 | Cook your lasagna | In this exercise you're going to write some code to help you cook a brilliant lasagna from your favorite cooking book. | [Click Here](https://github.com/CleuJunior/Exercism-Java/tree/main/lasagna)     | [Click for the Solution](https://github.com/CleuJunior/Exercism-Java/blob/main/lasagna/src/main/java/Lasagna.java)     | [Click for the Tests](https://github.com/CleuJunior/Exercism-Java/blob/main/lasagna/src/test/java/LasagnaTest.java)     |
 
 
-### Booleans :heavy_check_mark:
+### Booleans :white_check_mark:
 
 
 | Title                  | Quick description                                                                                   | Full Description                                                                          | My Solution                                                                                                                                   | Used Tests                                                                                                                                     |
 |------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | Annalyn's Infiltration | In this exercise, you'll be implementing the quest logic for a new RPG game a friend is developing. | [Click Here](https://github.com/CleuJunior/Exercism-Java/tree/main/annalyns-infiltration) | [Click for the Solution](https://github.com/CleuJunior/Exercism-Java/blob/main/annalyns-infiltration/src/main/java/AnnalynsInfiltration.java) | [Click for the Tests](https://github.com/CleuJunior/Exercism-Java/blob/main/annalyns-infiltration/src/test/java/AnnalynsInfiltrationTest.java) |
+
+
+### Strings 
+
+[//]: # (:white_check_mark:)
+
+| Title      | Quick description                                                                                                        | Full Description                                                               | My Solution                                                                                                                    | Used Tests                                                                                                                      |
+|------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Log Levels | You have three tasks, each of which will take a log line and ask you to do something with it.                            | [Click Here](https://github.com/CleuJunior/Exercism-Java/tree/main/log-levels) | [Click for the Solution](https://github.com/CleuJunior/Exercism-Java/blob/main/log-levels/src/main/java/LogLevels.java)        | [Click for the Tests](https://github.com/CleuJunior/Exercism-Java/blob/main/log-levels/src/test/java/LogLevelsTest.java)        |
+| Two Fer    | Two-fer or 2-fer is short for two for one. One for you and one for me.                                                   | [Click Here](https://github.com/CleuJunior/Exercism-Java/tree/main/two-fer)    | [Click for the Solution](https://github.com/CleuJunior/Exercism-Java/blob/main/two-fer/src/main/java/Twofer.java)              | [Click for the Tests](https://github.com/CleuJunior/Exercism-Java/blob/main/two-fer/src/test/java/TwoferTest.java)              |
+| Raindrops  | Your task is to convert a number into a string that contains raindrop sounds corresponding to certain potential factors. | [Click Here](https://github.com/CleuJunior/Exercism-Java/tree/main/raindrops)  | [Click for the Solution](https://github.com/CleuJunior/Exercism-Java/blob/main/raindrops/src/main/java/RaindropConverter.java) | [Click for the Tests](https://github.com/CleuJunior/Exercism-Java/blob/main/raindrops/src/test/java/RaindropConverterTest.java) |
+
+
