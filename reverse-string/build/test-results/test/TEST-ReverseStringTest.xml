@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReverseStringTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-18T16:58:37" hostname="CLEONILDO-JUNIO" time="0.009">
+  <properties/>
+  <testcase name="testAWord" classname="ReverseStringTest" time="0.008"/>
+  <testcase name="testAnEmptyString" classname="ReverseStringTest" time="0.0"/>
+  <testcase name="testACapitalizedWord" classname="ReverseStringTest" time="0.0"/>
+  <testcase name="testASentenceWithPunctuation" classname="ReverseStringTest" time="0.001"/>
+  <testcase name="testAPalindrome" classname="ReverseStringTest" time="0.0"/>
+  <testcase name="testAnEvenSizedWord" classname="ReverseStringTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
