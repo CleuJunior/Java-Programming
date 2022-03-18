@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsogramCheckerTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-03-18T05:33:34" hostname="CLEONILDO-JUNIO" time="0.004">
+  <properties/>
+  <testcase name="testDuplicateEndAlphabet" classname="IsogramCheckerTest" time="0.002"/>
+  <testcase name="testIsogramWithDuplicatedHyphen" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testIsogramWithDuplicatedCharAfterHyphen" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testCaseInsensitive" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testLowercaseIsogram" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testNotIsogram" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testMadeUpNameThatIsAnIsogram" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testEmptyString" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testIsogramWithHyphen" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testSameFirstAndLast" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testDuplicatMixedCase" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testMediumLongIsogram" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testDuplicatedCharacterInTheMiddleIsNotIsogram" classname="IsogramCheckerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
