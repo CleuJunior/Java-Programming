@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwelveDaysTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-03-18T16:21:50" hostname="CLEONILDO-JUNIO" time="0.004">
+  <properties/>
+  <testcase name="testVerseEight" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="testVerseSeven" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testVerseThree" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testVerseOne" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testVerseSix" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testVerseTen" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testVerseTwo" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testVerseFive" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testVerseFour" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testVerseNine" classname="TwelveDaysTest" time="0.001"/>
+  <testcase name="testVerseEleven" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testVerseTwelve" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testFirstThreeVerses" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testSingWholeSong" classname="TwelveDaysTest" time="0.0"/>
+  <testcase name="testFourthToSixthVerses" classname="TwelveDaysTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
