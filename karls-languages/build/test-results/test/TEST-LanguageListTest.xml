@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LanguageListTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-03-24T22:44:43" hostname="CLEONILDO-JUNIO" time="0.05">
+  <properties/>
+  <testcase name="addMultipleLanguages" classname="LanguageListTest" time="0.045"/>
+  <testcase name="countEmpty" classname="LanguageListTest" time="0.002"/>
+  <testcase name="countThree" classname="LanguageListTest" time="0.0"/>
+  <testcase name="excitingLanguageListWithKotlin" classname="LanguageListTest" time="0.0"/>
+  <testcase name="addOneLanguage" classname="LanguageListTest" time="0.0"/>
+  <testcase name="empty" classname="LanguageListTest" time="0.0"/>
+  <testcase name="firstLanguage" classname="LanguageListTest" time="0.001"/>
+  <testcase name="boringLanguageList" classname="LanguageListTest" time="0.0"/>
+  <testcase name="excitingLanguageListWithJava" classname="LanguageListTest" time="0.0"/>
+  <testcase name="removeLanguage" classname="LanguageListTest" time="0.0"/>
+  <testcase name="nonEmpty" classname="LanguageListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
