@@ -1,0 +1,31 @@
+{
+  "blurb": "Translate RNA sequences into proteins.",
+  "authors": [
+    "sjwarner-bp"
+  ],
+  "contributors": [
+    "FridaTveit",
+    "jmrunkle",
+    "kytrinyx",
+    "lemoncurry",
+    "mirkoperillo",
+    "msomji",
+    "muzimuzhi",
+    "SleeplessByte",
+    "sonapraneeth-a",
+    "sshine",
+    "stkent"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/ProteinTranslator.java"
+    ],
+    "test": [
+      "src/test/java/ProteinTranslatorTest.java"
+    ],
+    "example": [
+      ".meta/src/reference/java/ProteinTranslator.java"
+    ]
+  },
+  "source": "Tyler Long"
+}

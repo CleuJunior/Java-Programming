@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProteinTranslatorTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2022-03-25T19:42:38" hostname="CLEONILDO-JUNIO" time="0.006">
+  <properties/>
+  <testcase name="testTryptophanRnaSequence1" classname="ProteinTranslatorTest" time="0.002"/>
+  <testcase name="testTranslationOfRnaToProteinList" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testMethionineRnaSequence" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testTranslationStopsIfStopCodonInMiddle1" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testTranslationStopsIfStopCodonInMiddle2" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testTyrosineRnaSequence1" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testTyrosineRnaSequence2" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testTranslationStopsIfStopCodonAtEnd1" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testTranslationStopsIfStopCodonAtEnd2" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testLeucineRnaSequence1" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testLeucineRnaSequence2" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testStopRnaSequence1" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testStopRnaSequence2" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testStopRnaSequence3" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testPhenylalanineRnaSequence1" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testPhenylalanineRnaSequence2" classname="ProteinTranslatorTest" time="0.001"/>
+  <testcase name="testSerineRnaSequence1" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testSerineRnaSequence2" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testSerineRnaSequence3" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testSerineRnaSequence4" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testTranslationStopsIfStopCodonAtBeginning" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testCysteineRnaSequence1" classname="ProteinTranslatorTest" time="0.0"/>
+  <testcase name="testCysteineRnaSequence2" classname="ProteinTranslatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
