@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnagramTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-03-26T05:43:06" hostname="CLEONILDO-JUNIO" time="0.041">
+  <properties/>
+  <testcase name="testCaseInsensitiveWhenBothAnagramAndSubjectStartWithUpperCaseLetter" classname="AnagramTest" time="0.037"/>
+  <testcase name="testEliminateAnagramSubsets" classname="AnagramTest" time="0.001"/>
+  <testcase name="testAnagramMustUseAllLettersExactlyOnce" classname="AnagramTest" time="0.0"/>
+  <testcase name="testIdenticalWordRepeatedIsNotAnagram" classname="AnagramTest" time="0.0"/>
+  <testcase name="testDetectsMultipleAnagramsWithDifferentCase" classname="AnagramTest" time="0.001"/>
+  <testcase name="testWordsOtherThanThemselvesCanBeAnagrams" classname="AnagramTest" time="0.0"/>
+  <testcase name="testDetectMultipleAnagramsForLongerWord" classname="AnagramTest" time="0.0"/>
+  <testcase name="testDetectMultipleAnagrams" classname="AnagramTest" time="0.0"/>
+  <testcase name="testWordsAreNotAnagramsOfThemselvesCaseInsensitive" classname="AnagramTest" time="0.0"/>
+  <testcase name="testCaseInsensitiveWhenSubjectStartsWithUpperCaseLetter" classname="AnagramTest" time="0.0"/>
+  <testcase name="testCaseInsensitiveWhenAnagramStartsWithUpperCaseLetter" classname="AnagramTest" time="0.0"/>
+  <testcase name="testDetectLongerAnagram" classname="AnagramTest" time="0.001"/>
+  <testcase name="testNoMatches" classname="AnagramTest" time="0.0"/>
+  <testcase name="testEliminateAnagramsWithSameChecksum" classname="AnagramTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
