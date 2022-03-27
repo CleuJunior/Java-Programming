@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GrainsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-03-27T18:24:24" hostname="CLEONILDO-JUNIO" time="0.032">
+  <properties/>
+  <testcase name="countAtSquare16" classname="GrainsTest" time="0.002"/>
+  <testcase name="countAtSquare32" classname="GrainsTest" time="0.0"/>
+  <testcase name="countAtSquare64" classname="GrainsTest" time="0.0"/>
+  <testcase name="errorOnExcessiveBoardSize" classname="GrainsTest" time="0.028"/>
+  <testcase name="errorOnNegativeBoardSize" classname="GrainsTest" time="0.001"/>
+  <testcase name="countAtSquare1" classname="GrainsTest" time="0.0"/>
+  <testcase name="countAtSquare2" classname="GrainsTest" time="0.0"/>
+  <testcase name="countAtSquare3" classname="GrainsTest" time="0.0"/>
+  <testcase name="countAtSquare4" classname="GrainsTest" time="0.0"/>
+  <testcase name="errorOnNullBoardSize" classname="GrainsTest" time="0.001"/>
+  <testcase name="totalNumberOfGrainsOnABoard" classname="GrainsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
