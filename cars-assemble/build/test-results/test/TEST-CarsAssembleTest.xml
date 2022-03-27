@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarsAssembleTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-03-27T05:33:34" hostname="CLEONILDO-JUNIO" time="0.049">
+  <properties/>
+  <testcase name="workingItemsPerMinuteForSpeedFive" classname="CarsAssembleTest" time="0.046"/>
+  <testcase name="workingItemsPerMinuteForSpeedNine" classname="CarsAssembleTest" time="0.0"/>
+  <testcase name="workingItemsPerMinuteForSpeedZero" classname="CarsAssembleTest" time="0.0"/>
+  <testcase name="workingItemsPerMinuteForSpeedEight" classname="CarsAssembleTest" time="0.0"/>
+  <testcase name="productionRatePerHourForSpeedSeven" classname="CarsAssembleTest" time="0.002"/>
+  <testcase name="workingItemsPerMinuteForSpeedOne" classname="CarsAssembleTest" time="0.0"/>
+  <testcase name="workingItemsPerMinuteForSpeedTen" classname="CarsAssembleTest" time="0.0"/>
+  <testcase name="productionRatePerHourForSpeedOne" classname="CarsAssembleTest" time="0.0"/>
+  <testcase name="productionRatePerHourForSpeedTen" classname="CarsAssembleTest" time="0.0"/>
+  <testcase name="productionRatePerHourForSpeedFour" classname="CarsAssembleTest" time="0.0"/>
+  <testcase name="productionRatePerHourForSpeedNine" classname="CarsAssembleTest" time="0.0"/>
+  <testcase name="productionRatePerHourForSpeedZero" classname="CarsAssembleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
