@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BobTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2022-03-28T20:00:32" hostname="CLEONILDO-JUNIO" time="0.043">
+  <properties/>
+  <testcase name="forcefulQuestions" classname="BobTest" time="0.038"/>
+  <testcase name="shoutingWithSpecialCharacters" classname="BobTest" time="0.0"/>
+  <testcase name="saySomething" classname="BobTest" time="0.0"/>
+  <testcase name="statementContainingQuestionMark" classname="BobTest" time="0.0"/>
+  <testcase name="nonLettersWithQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="nonQuestionEndingWithWhiteSpace" classname="BobTest" time="0.0"/>
+  <testcase name="askingANumericQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="shoutingWithNoExclamationMark" classname="BobTest" time="0.001"/>
+  <testcase name="endingWithWhiteSpace" classname="BobTest" time="0.0"/>
+  <testcase name="prolongedSilence" classname="BobTest" time="0.0"/>
+  <testcase name="startingWithWhitespace" classname="BobTest" time="0.0"/>
+  <testcase name="alternateSilence" classname="BobTest" time="0.0"/>
+  <testcase name="questionWithOnlyNumbers" classname="BobTest" time="0.0"/>
+  <testcase name="talkingForcefully" classname="BobTest" time="0.0"/>
+  <testcase name="multipleLineQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="prattlingOn" classname="BobTest" time="0.001"/>
+  <testcase name="shouting" classname="BobTest" time="0.0"/>
+  <testcase name="askingAQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="otherWhiteSpace" classname="BobTest" time="0.0"/>
+  <testcase name="onlyNumbers" classname="BobTest" time="0.0"/>
+  <testcase name="shoutingNumbers" classname="BobTest" time="0.001"/>
+  <testcase name="shoutingGibberish" classname="BobTest" time="0.0"/>
+  <testcase name="askingGibberish" classname="BobTest" time="0.0"/>
+  <testcase name="usingAcronymsInRegularSpeech" classname="BobTest" time="0.0"/>
+  <testcase name="silence" classname="BobTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
