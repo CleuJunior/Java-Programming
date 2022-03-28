@@ -1,0 +1,23 @@
+{
+  "blurb": "Learn about interfaces by working on cars.",
+  "authors": [
+    "mikedamay"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/ExperimentalRemoteControlCar.java",
+      "src/main/java/ProductionRemoteControlCar.java",
+      "src/main/java/RemoteControlCar.java",
+      "src/main/java/TestTrack.java"
+    ],
+    "test": [
+      "src/test/java/RemoteControlCarTest.java"
+    ],
+    "exemplar": [
+      ".meta/src/reference/java/ExperimentalRemoteControlCar.java",
+      ".meta/src/reference/java/ProductionRemoteControlCar.java",
+      ".meta/src/reference/java/RemoteControlCar.java",
+      ".meta/src/reference/java/TestTrack.java"
+    ]
+  }
+}

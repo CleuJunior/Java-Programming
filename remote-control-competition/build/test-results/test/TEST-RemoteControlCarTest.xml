@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RemoteControlCarTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-28T17:26:10" hostname="CLEONILDO-JUNIO" time="0.051">
+  <properties/>
+  <testcase name="race" classname="RemoteControlCarTest" time="0.047"/>
+  <testcase name="rankCars" classname="RemoteControlCarTest" time="0.002"/>
+  <testcase name="ensureCarsAreComparables" classname="RemoteControlCarTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
