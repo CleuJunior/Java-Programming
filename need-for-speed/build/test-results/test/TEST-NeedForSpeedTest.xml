@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NeedForSpeedTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-03-29T01:01:00" hostname="CLEONILDO-JUNIO" time="0.047">
+  <properties/>
+  <testcase name="new_remote_control_car_has_not_driven_any_distance" classname="NeedForSpeedTest" time="0.043"/>
+  <testcase name="drive_until_battery_is_drained" classname="NeedForSpeedTest" time="0.001"/>
+  <testcase name="nitro_car_has_battery_not_drained" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="new_remote_control_car_battery_is_not_drained" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="car_can_finish_with_car_that_just_cannot_finish" classname="NeedForSpeedTest" time="0.001"/>
+  <testcase name="drive_increases_distance_driven_with_speed" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="car_can_finish_with_car_that_can_easily_finish" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="drive_does_not_increase_distance_driven_when_battery_drained" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="nitro_has_correct_battery_drain" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="car_can_finish_with_car_that_can_just_finish" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="nitro_car_has_correct_speed" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="nitro_car_has_not_driven_any_distance" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="car_can_finish_with_car_that_cannot_finish" classname="NeedForSpeedTest" time="0.0"/>
+  <testcase name="drive_to_almost_drain_battery" classname="NeedForSpeedTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
