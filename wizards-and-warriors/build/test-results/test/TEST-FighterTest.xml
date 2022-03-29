@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FighterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-29T04:58:45" hostname="CLEONILDO-JUNIO" time="0.047">
+  <properties/>
+  <testcase name="testFighterVulnerableByDefault" classname="FighterTest" time="0.043"/>
+  <testcase name="testToString" classname="FighterTest" time="0.002"/>
+  <testcase name="testWarriorsDamagePoints" classname="FighterTest" time="0.001"/>
+  <testcase name="testWizardsDamagePoints" classname="FighterTest" time="0.0"/>
+  <testcase name="testWizardVulnerable" classname="FighterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
