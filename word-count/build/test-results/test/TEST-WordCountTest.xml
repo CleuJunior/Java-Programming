@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordCountTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-03-29T17:44:49" hostname="CLEONILDO-JUNIO" time="0.006">
+  <properties/>
+  <testcase name="handlesExpandedLists" classname="WordCountTest" time="0.003"/>
+  <testcase name="withQuotations" classname="WordCountTest" time="0.001"/>
+  <testcase name="normalizeCase" classname="WordCountTest" time="0.0"/>
+  <testcase name="multipleSpacesNotDetectedAsAWord" classname="WordCountTest" time="0.0"/>
+  <testcase name="countOneOfEachWord" classname="WordCountTest" time="0.001"/>
+  <testcase name="handlesCrampedLists" classname="WordCountTest" time="0.0"/>
+  <testcase name="withApostrophes" classname="WordCountTest" time="0.0"/>
+  <testcase name="countOneWord" classname="WordCountTest" time="0.0"/>
+  <testcase name="alternatingWordSeperatorsNotDetectedAsAWord" classname="WordCountTest" time="0.001"/>
+  <testcase name="substringsFromTheBeginning" classname="WordCountTest" time="0.0"/>
+  <testcase name="multipleOccurrencesOfAWord" classname="WordCountTest" time="0.0"/>
+  <testcase name="includeNumbers" classname="WordCountTest" time="0.0"/>
+  <testcase name="ignorePunctuation" classname="WordCountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
