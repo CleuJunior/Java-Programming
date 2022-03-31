@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BankAccountTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-03-31T18:35:26" hostname="CLEONILDO-JUNIO" time="0.652">
+  <properties/>
+  <testcase name="canDepositMoneySequentially" classname="BankAccountTest" time="0.001"/>
+  <testcase name="cannotGetBalanceOfClosedAccount" classname="BankAccountTest" time="0.028"/>
+  <testcase name="cannotDepositNegativeAmount" classname="BankAccountTest" time="0.0"/>
+  <testcase name="cannotWithdrawNegativeAmount" classname="BankAccountTest" time="0.0"/>
+  <testcase name="cannotWithdrawMoreMoneyThanYouHave" classname="BankAccountTest" time="0.0"/>
+  <testcase name="canDepositMoney" classname="BankAccountTest" time="0.0"/>
+  <testcase name="bankAccountIsClosedBeforeItIsOpened" classname="BankAccountTest" time="0.0"/>
+  <testcase name="newlyOpenedAccountHasEmptyBalance" classname="BankAccountTest" time="0.0"/>
+  <testcase name="cannotWithdrawMoneyFromEmptyAccount" classname="BankAccountTest" time="0.0"/>
+  <testcase name="canAdjustBalanceConcurrently" classname="BankAccountTest" time="0.618"/>
+  <testcase name="cannotWithdrawMoneyFromClosedAccount" classname="BankAccountTest" time="0.0"/>
+  <testcase name="canWithdrawMoney" classname="BankAccountTest" time="0.0"/>
+  <testcase name="cannotDepositMoneyIntoClosedAccount" classname="BankAccountTest" time="0.0"/>
+  <testcase name="canWithdrawMoneySequentially" classname="BankAccountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
