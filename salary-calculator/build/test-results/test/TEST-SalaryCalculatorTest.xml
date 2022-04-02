@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SalaryCalculatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-04-02T17:26:10" hostname="CLEONILDO-JUNIO" time="0.034">
+  <properties/>
+  <testcase name="soldAboveThreshold" classname="SalaryCalculatorTest" time="0.032"/>
+  <testcase name="skippedBelowThresholdAndSoldAboveThreshold" classname="SalaryCalculatorTest" time="0.0"/>
+  <testcase name="salaryRespectMaximum" classname="SalaryCalculatorTest" time="0.0"/>
+  <testcase name="regularSalary" classname="SalaryCalculatorTest" time="0.001"/>
+  <testcase name="salaryCanReachCloseToMaximum" classname="SalaryCalculatorTest" time="0.0"/>
+  <testcase name="skippedAboveThresholdAndSoldBelowThreshold" classname="SalaryCalculatorTest" time="0.0"/>
+  <testcase name="skippedBelowThreshold" classname="SalaryCalculatorTest" time="0.0"/>
+  <testcase name="skippedAboveThresholdAndSoldAboveThreshold" classname="SalaryCalculatorTest" time="0.0"/>
+  <testcase name="skippedAboveThreshold" classname="SalaryCalculatorTest" time="0.0"/>
+  <testcase name="soldBelowThreshold" classname="SalaryCalculatorTest" time="0.0"/>
+  <testcase name="skippedBelowThresholdAndSoldBelowThreshold" classname="SalaryCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
