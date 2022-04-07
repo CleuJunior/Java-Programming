@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HandshakeCalculatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-04-07T17:19:06" hostname="CLEONILDO-JUNIO" time="0.05">
+  <properties/>
+  <testcase name="testReversingASingleActionYieldsTheSameAction" classname="HandshakeCalculatorTest" time="0.046"/>
+  <testcase name="testThatInput1YieldsAWink" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testReversingNoActionsYieldsNoActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatInput8YieldsAJump" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testThatHandlesMoreThanFiveBinaryPlacesWithoutReversal" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testThatInput4YieldsACloseYourEyes" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testInputThatYieldsAllActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatInput2YieldsADoubleBlink" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testInputThatYieldsAllActionsReversed" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testAnInputThatYieldsTwoReversedActions" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testAnInputThatYieldsTwoActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatHandlesMoreThanFiveBinaryPlacesWithReversal" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testThatInput0YieldsNoActions" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testInputThatYieldsAllActionsFromMoreThanFiveBinaryPlaces" classname="HandshakeCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
