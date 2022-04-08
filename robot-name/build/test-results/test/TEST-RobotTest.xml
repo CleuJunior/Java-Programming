@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-08T03:08:35" hostname="CLEONILDO-JUNIO" time="0.085">
+  <properties/>
+  <testcase name="robotNamesAreUnique" classname="RobotTest" time="0.069"/>
+  <testcase name="differentRobotsHaveDifferentNames" classname="RobotTest" time="0.015"/>
+  <testcase name="hasName" classname="RobotTest" time="0.001"/>
+  <testcase name="resetName" classname="RobotTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
