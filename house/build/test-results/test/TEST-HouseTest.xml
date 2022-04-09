@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HouseTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-04-09T04:53:33" hostname="CLEONILDO-JUNIO" time="0.032">
+  <properties/>
+  <testcase name="verseOne" classname="HouseTest" time="0.03"/>
+  <testcase name="verseSix" classname="HouseTest" time="0.0"/>
+  <testcase name="verseTwo" classname="HouseTest" time="0.0"/>
+  <testcase name="verseFive" classname="HouseTest" time="0.001"/>
+  <testcase name="verseFour" classname="HouseTest" time="0.0"/>
+  <testcase name="verseNine" classname="HouseTest" time="0.0"/>
+  <testcase name="verseEight" classname="HouseTest" time="0.0"/>
+  <testcase name="verseSeven" classname="HouseTest" time="0.0"/>
+  <testcase name="verseThree" classname="HouseTest" time="0.0"/>
+  <testcase name="wholeRhyme" classname="HouseTest" time="0.001"/>
+  <testcase name="verse10" classname="HouseTest" time="0.0"/>
+  <testcase name="verse11" classname="HouseTest" time="0.0"/>
+  <testcase name="verse12" classname="HouseTest" time="0.0"/>
+  <testcase name="multipleVerses" classname="HouseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
