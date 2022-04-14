@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TriangleTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-04-14T01:45:17" hostname="CLEONILDO-JUNIO" time="0.005">
+  <properties/>
+  <testcase name="verySmallTrianglesCanBeEquilateral" classname="TriangleTest" time="0.001"/>
+  <testcase name="isoscelesTrianglesHaveLastTwoSidesEqual" classname="TriangleTest" time="0.0"/>
+  <testcase name="trianglesWithOneUnequalSideAreNotEquilateral" classname="TriangleTest" time="0.001"/>
+  <testcase name="scaleneTrianglesHaveNoEqualSides" classname="TriangleTest" time="0.0"/>
+  <testcase name="trianglesWithNoEqualSidesAreNotEquilateral" classname="TriangleTest" time="0.0"/>
+  <testcase name="isoscelesTrianglesHaveFirstAndLastSidesEqual" classname="TriangleTest" time="0.0"/>
+  <testcase name="mayNotViolateTriangleInequality" classname="TriangleTest" time="0.001"/>
+  <testcase name="firstTriangleInequalityViolation" classname="TriangleTest" time="0.0"/>
+  <testcase name="twoSidesEqualAreNotScalene" classname="TriangleTest" time="0.0"/>
+  <testcase name="thirdTriangleInequalityViolation" classname="TriangleTest" time="0.0"/>
+  <testcase name="allSidesEqualAreNotScalene" classname="TriangleTest" time="0.0"/>
+  <testcase name="equilateralTrianglesHaveEqualSides" classname="TriangleTest" time="0.001"/>
+  <testcase name="trianglesWithNoSizeAreIllegal" classname="TriangleTest" time="0.0"/>
+  <testcase name="isoscelesTrianglesHaveTwoFirstSidesEqual" classname="TriangleTest" time="0.0"/>
+  <testcase name="equilateralTrianglesAreAlsoIsosceles" classname="TriangleTest" time="0.0"/>
+  <testcase name="verySmallTrianglesCanBeIsosceles" classname="TriangleTest" time="0.0"/>
+  <testcase name="noSidesAreEqualCantBeIsoceles" classname="TriangleTest" time="0.0"/>
+  <testcase name="secondTriangleInequalityViolation" classname="TriangleTest" time="0.0"/>
+  <testcase name="verySmallTrianglesCanBeScalene" classname="TriangleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
