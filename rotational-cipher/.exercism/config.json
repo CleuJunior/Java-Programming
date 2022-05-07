@@ -1,0 +1,33 @@
+{
+  "blurb": "Create an implementation of the rotational cipher, also sometimes called the Caesar cipher.",
+  "authors": [
+    "LeonDsouza"
+  ],
+  "contributors": [
+    "c-thornton",
+    "FridaTveit",
+    "jmrunkle",
+    "kytrinyx",
+    "lemoncurry",
+    "msomji",
+    "muzimuzhi",
+    "sjwarner-bp",
+    "SleeplessByte",
+    "Smarticles101",
+    "sshine",
+    "stkent"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/RotationalCipher.java"
+    ],
+    "test": [
+      "src/test/java/RotationalCipherTest.java"
+    ],
+    "example": [
+      ".meta/src/reference/java/RotationalCipher.java"
+    ]
+  },
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Caesar_cipher"
+}
