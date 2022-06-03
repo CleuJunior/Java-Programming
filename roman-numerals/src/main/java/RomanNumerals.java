@@ -1,10 +1,23 @@
-/*
+import java.util.HashMap;
+import java.util.Map;
 
-Since this exercise has a difficulty of > 4 it doesn't come
-with any starter implementation.
-This is so that you get to practice creating classes and methods
-which is an important part of programming in Java.
+public class RomanNumerals
+{
+    private final int[] intRomanValue = { 1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1 };
+    private final String[] romanLetter = { "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I" };
+    private int number;
+    StringBuilder stringBuilderRoman = new StringBuilder();
+    public RomanNumerals(int number){ this.number = number; }
+    public String getRomanNumeral(){
 
-Please remove this comment when submitting your solution.
+        for(int i = 0; i< intRomanValue.length; i++){
 
-*/
+            while(number >= intRomanValue[i]){
+                number-= intRomanValue[i];
+                stringBuilderRoman.append(romanLetter[i]);
+            }
+
+        }
+        return stringBuilderRoman.toString();
+    }
+}

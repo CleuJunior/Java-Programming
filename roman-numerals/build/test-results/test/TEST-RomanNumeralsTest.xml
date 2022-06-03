@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RomanNumeralsTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-06-03T20:27:14" hostname="CLEONILDO-JUNIO" time="0.005">
+  <properties/>
+  <testcase name="test3000ToRomanNumberMMM" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test9ToRomanNumberIX" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test575ToRomanNumberDLXXV" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test49ToRomanNumberXLIX" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test1ToRomanNumberI" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test48ToRomanNumberXLVIII" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test3ToRomanNumberIII" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test6ToRomanNumberVI" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test911ToRomanNumberCMXI" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test8ToRomanNumberVIII" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test1024ToRomanNumberMXXIV" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test59ToRomanNumberLIX" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test5ToRomanNumberV" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test27ToRomanNumberXXVII" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test141ToRomanNumberCXLI" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test4ToRomanNumberIV" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test163ToRomanNumberCLXIII" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test93ToRomanNumberXCIII" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test2ToRomanNumberII" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test402ToRomanNumberCDII" classname="RomanNumeralsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
