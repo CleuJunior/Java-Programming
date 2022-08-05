@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PigLatinTranslatorTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2022-08-05T01:50:01" hostname="CLEONILDO-JUNIO" time="0.005">
+  <properties/>
+  <testcase name="testYAsSecondLetterInTwoLetterWord" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="testAWholePhrase" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testWordBeginningWithQWithoutAFollowingU" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="testWordBeginningWithA" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testWordBeginningWithE" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testWordBeginningWithI" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testWordBeginningWithK" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testWordBeginningWithO" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="testWordBeginningWithP" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testWordBeginningWithU" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testWordBeginningWithX" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testYTreatedLikeAConsonantAtTheBeginningOfAWord" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testQuAndAPrecedingConsonantTreatedLikeAConsonantAtTheBeginningOfAWord" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testWordBeginningWithVowelAndFollowedByQu" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testThTreatedLikeAConsonantAtTheBeginningOfAWord" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testSchTreatedLikeAConsonantAtTheBeginningOfAWord" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testChTreatedLikeAConsonantAtTheBeginningOfAWord" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testYTreatedLikeAVowelAtTheEndOfAConsonantCluster" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testYtTreatedLikeAVowelAtTheBeginningOfAWord" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testQuTreatedLikeAConsonantAtTheBeginningOfAWord" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testThrTreatedLikeAConsonantAtTheBeginningOfAWord" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testXrTreatedLikeAVowelAtTheBeginningOfAWord" classname="PigLatinTranslatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
