@@ -1,8 +1,7 @@
-import static org.assertj.core.api.Assertions.assertThat;
-
-import org.junit.Ignore;
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class DiamondPrinterTest {
 
@@ -19,7 +18,6 @@ public class DiamondPrinterTest {
             .containsExactly("A");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testTwoByTwoDiamond() {
         assertThat(diamondPrinter.printToList('B'))
@@ -29,7 +27,6 @@ public class DiamondPrinterTest {
                 " A ");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testThreeByThreeDiamond() {
         assertThat(diamondPrinter.printToList('C'))
@@ -41,7 +38,6 @@ public class DiamondPrinterTest {
                 "  A  ");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testFourByFourDiamond() {
         assertThat(diamondPrinter.printToList('D'))

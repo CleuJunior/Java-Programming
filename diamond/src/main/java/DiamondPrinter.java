@@ -1,39 +1,43 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 class DiamondPrinter {
-
-    private final String ABC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-
     public List<String> printToList(char a) {
+        char[] letter = {'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
+        int numberLetter = 0;
 
-        List<String> returnList = new ArrayList<>();
-        StringBuilder stringA = new StringBuilder();
-        String space = "";
+        for(int i = 0; i < letter.length; i++)
+            if(letter[i] == a)
+                numberLetter = i;
 
-        System.out.println(ABC.length());
-        System.out.println(ABC.indexOf(a));
 
-        for (int i = 0; i < ABC.indexOf(a); i++) {
+        String[][] result = new String[numberLetter * 2 + 1][numberLetter * 2 + 1];
 
-            for (int j = 0; j < ABC.indexOf(a); j++) {
-                space += " ";
-
-                if(j == ABC.indexOf(a)-1) {
-                    stringA.append(space).append(ABC.charAt(i));
-                    stringA.append(space).append("\n");
-                    returnList.add(stringA.toString());
-                }
-
-                stringA;
+        for(int x = 0; x <= numberLetter * 2; x++) {
+            for(int y = 0; y <= numberLetter * 2; y++) {
+                result[x][y] = " ";
             }
-
-
         }
 
-        System.out.println(stringA);
+        for(int i = 0; i <= numberLetter; i++) {
+            result[numberLetter - i][i] = Character.toString(letter[i]);
+            result[numberLetter + i][i] = Character.toString(letter[i]);
+            result[numberLetter - i][numberLetter * 2 - i] = Character.toString(letter[i]);
+            result[numberLetter + i][numberLetter * 2 - i] = Character.toString(letter[i]);
+        }
 
-        return List.of();
+        String[] resultFinish = new String[numberLetter * 2 + 1];
+
+        for(int x = 0; x < numberLetter * 2 + 1; x++)
+            resultFinish[x] = "";
+
+        for(int x = 0; x < numberLetter * 2 + 1; x++) {
+            for(int y = 0; y < numberLetter * 2 + 1; y++) {
+                resultFinish[x] = resultFinish[x] + result[y][x];
+            }
+        }
+
+        return new ArrayList<>(Arrays.asList(resultFinish).subList(0, numberLetter * 2 + 1));
     }
-
 }
