@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c4c65fc-b76a-4655-9bd6-6249535bb79d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bowling/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bowling/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bowling/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bowling/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bowling/build/classes/java/main/BowlingGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bowling/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/1/a/1a273f73b7a477b0745593641bd708a6182c7ad5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/2/c/2cbac32e6a9e9cfcbbc27de723d88d5934a134c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/8/7/879aeb2ffc0687fd811b2fffb7b2e9015f552863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/9/c/9cdaa1c2c70f6da4a5ae33e3da467f983de4adad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/d/3/d3ad8a2fa7b4ad93d313054809fb4e8e8d15acf8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/1/a/1a273f73b7a477b0745593641bd708a6182c7ad5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/2/c/2cbac32e6a9e9cfcbbc27de723d88d5934a134c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/7/d/7d67792f69654d9755090b97bf05d7d62f971fe4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/9/c/9cdaa1c2c70f6da4a5ae33e3da467f983de4adad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/d/d/dd08b02413518db454c347f663691485cae70fd7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log-levels/.idea/log-levels.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/1/a/1a273f73b7a477b0745593641bd708a6182c7ad5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/2/8/2855456324ac70b2708d480e6f7d83aecc85b3cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/2/c/2cbac32e6a9e9cfcbbc27de723d88d5934a134c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/9/c/9cdaa1c2c70f6da4a5ae33e3da467f983de4adad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/f/9/f94162d6b4740f5eec68900cad692f8238501a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/1/6/1695cf79f0a91f40af7bc389ca3e4401ab946cfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/1/a/1a273f73b7a477b0745593641bd708a6182c7ad5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/3/8/38464f72ef55196e32fe4dfbcc50f1cda5f4cb5d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/5/2/52114fdaa426e9b83a3c5df4e11c4f0ebbcd814b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/7/c/7c74d1908b9c7f0af027da91e46e63867382af67" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/8/3/835232c9b44e8c569d2c9caebac92f3b5d10bb60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/9/a/9aed88f31eac276604c6355c1adcc0bce1f80fd6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/b/f/bfb9453d49af9bc40f5f7a5f034be3c7ef8fa6bf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/d/6/d642aa2054cf27fde6c51f97f56a57bdabfc5320" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/f/7/f7819ea138c33fec28e7e536cb2de34db38fc121" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/1/a/1a273f73b7a477b0745593641bd708a6182c7ad5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/9/3/93e029348659e3b7f64b6924c0771cf8935563db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/9/c/9cdaa1c2c70f6da4a5ae33e3da467f983de4adad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/a/5/a5b27a4b6e5a4edb750a1555b20bde9939bc95dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allergies/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../allergies/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/src/main/java/BowlingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/src/main/java/BowlingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bowling/src/test/java/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bowling/src/test/java/BowlingGameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flatten-array/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flatten-array/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flatten-array/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flatten-array/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../flatten-array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/src/main/java/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/src/main/java/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linked-list/src/test/java/DoublyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../linked-list/src/test/java/DoublyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../log-levels/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../luhn/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MinesweeperBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MinesweeperBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MinesweeperBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MinesweeperBoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roman-numerals/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../roman-numerals/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../roman-numerals/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rotational-cipher/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rotational-cipher/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rotational-cipher/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="4699loo6" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="28okxmhwNpmcHMsKy9Rzdk8oxBG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Desktop/Exercism/java/minesweeper",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c4c65fc-b76a-4655-9bd6-6249535bb79d" name="Changes" comment="" />
+      <created>1651890574516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651890574516</updated>
+      <workItem from="1651890575928" duration="12000" />
+      <workItem from="1659928605942" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
