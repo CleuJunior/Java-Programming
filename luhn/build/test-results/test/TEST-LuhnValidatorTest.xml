@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LuhnValidatorTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-08-09T01:57:44" hostname="CLEONILDO-JUNIO" time="0.006">
+  <properties/>
+  <testcase name="testSimpleValidSINReversedRemainsValid" classname="LuhnValidatorTest" time="0.002"/>
+  <testcase name="testValidNumberWithAnOddNumberOfSpaces" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testValidCanadianSINValid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testMoreThanSingleZeroValid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringContainingSymbolsInvalidJavaTrackSpecific" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSimpleValidSINReversedBecomesInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSingleZeroIsInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testInvalidCanadianSINInvalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="testStringContainingPunctuationInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testUsingASCIIValueForNonDoubledNonDigitNotAllowed" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testValidStringsWithANonDigitAtEndInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testValidNumberWithAnEvenNumberOfDigits" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testDigitNineConvertedToOutputNine" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSingleSpaceWithZeroInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSingleDigitStringInvalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="testStringContainingSymbolsInvalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="testInvalidCreditCardInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testUsingASCIIValueForDoubledNonDigitNotAllowed" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testInvalidLongNumberWithAnEvenRemainder" classname="LuhnValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
