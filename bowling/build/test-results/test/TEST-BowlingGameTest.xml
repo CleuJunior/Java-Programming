@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BowlingGameTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2022-08-09T01:30:19" hostname="CLEONILDO-JUNIO" time="0.04">
+  <properties/>
+  <testcase name="canNotRollAfterBonusRollForSpare" classname="BowlingGameTest" time="0.03"/>
+  <testcase name="bonusRollForASpareInTheLastFrameMustBeRolledBeforeScoreCanBeCalculated" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="aStrikeInTheLastFrameGetsATwoRollBonusThatIsCountedOnce" classname="BowlingGameTest" time="0.002"/>
+  <testcase name="twoRollsInAFrameCanNotScoreMoreThan10Points" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="twoBonusRollsAfterAStrikeInTheLastFrameCanNotScoreMoreThan10Points" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="pointsScoredInTheRollAfterASpareAreCountedTwice" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="bonusRollsForAStrikeInTheLastFrameMustBeRolledBeforeScoreCanBeCalculated" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="aSpareInTheLastFrameGetsAOneRollBonusThatIsCountedOnce" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="aStrikeEarnsTenPointsInFrameWithASingleRoll" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="secondBonusRollAfterAStrikeInTheLastFrameCanNotScoreMoreThan10Points" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="aSpareFollowedByZerosIsWorthTenPoints" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="consecutiveStrikesEachGetTheTwoRollBonus" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="anIncompleteGameCanNotBeScored" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="rollsCanNotScoreNegativePoints" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="bothBonusRollsForAStrikeInTheLastFrameMustBeRolledBeforeScoreCanBeCalculated" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="aStrikeWithTheOneRollBonusAfterASpareInTheLastFrameDoesNotGetABonus" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="anUnstartedGameCanNotBeScored" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="rollingASpareWithTheTwoRollBonusDoesNotGetABonusRoll" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="theSecondBonusRollsAfterAStrikeInTheLastFrameCanNotBeAStrikeIfTheFirstOneIsNotAStrike" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="canNotRollIfGameAlreadyHasTenFrames" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="bonusRollAfterAStrikeInTheLastFrameCanNotScoreMoreThan10Points" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="allStrikesIsAPerfectGame" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="canNotRollAfterBonusRollForStrike" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="aRollCanNotScoreMoreThan10Points" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="twoBonusRollsAfterAStrikeInTheLastFrameCanScoreMoreThan10PointsIfOneIsAStrike" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="shouldBeAbleToScoreAGameWithNoStrikesOrSpares" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="shouldBeAbleToScoreAGameWithAllZeros" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="strikesWithTheTwoRollBonusDoNotGetBonusRolls" classname="BowlingGameTest" time="0.0"/>
+  <testcase name="consecutiveSparesEachGetAOneRollBonus" classname="BowlingGameTest" time="0.001"/>
+  <testcase name="pointsScoredInTheTwoRollsAfterAStrikeAreCountedTwiceAsABonus" classname="BowlingGameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
