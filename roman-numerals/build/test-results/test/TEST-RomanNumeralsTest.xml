@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RomanNumeralsTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-06-03T20:27:14" hostname="CLEONILDO-JUNIO" time="0.005">
+<testsuite name="RomanNumeralsTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-08-10T14:39:20" hostname="CLEONILDO-JUNIO" time="0.005">
   <properties/>
-  <testcase name="test3000ToRomanNumberMMM" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test3000ToRomanNumberMMM" classname="RomanNumeralsTest" time="0.002"/>
   <testcase name="test9ToRomanNumberIX" classname="RomanNumeralsTest" time="0.0"/>
   <testcase name="test575ToRomanNumberDLXXV" classname="RomanNumeralsTest" time="0.0"/>
   <testcase name="test49ToRomanNumberXLIX" classname="RomanNumeralsTest" time="0.0"/>
