@@ -1,10 +1,18 @@
-/*
+import java.util.ArrayList;
+import java.util.List;
+public class Flattener {
 
-Since this exercise has a difficulty of > 4 it doesn't come
-with any starter implementation.
-This is so that you get to practice creating classes and methods
-which is an important part of programming in Java.
+    public List flatten(List list){
+        List<Object> result  = new ArrayList<>();
 
-Please remove this comment when submitting your solution.
+        for(Object o: list){
+            if(o instanceof List)
+                result.addAll(flatten((List) o));
 
-*/
+            else if(o != null)
+                result.add(o);
+        }
+
+        return result;
+    }
+}

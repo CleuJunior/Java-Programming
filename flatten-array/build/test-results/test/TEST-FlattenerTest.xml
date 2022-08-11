@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FlattenerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-08-11T01:59:30" hostname="CLEONILDO-JUNIO" time="0.003">
+  <properties/>
+  <testcase name="testSixLevelsOfNestingWithNulls" classname="FlattenerTest" time="0.002"/>
+  <testcase name="testASingleLevelOfNestingWithNoNulls" classname="FlattenerTest" time="0.0"/>
+  <testcase name="testFlatListIsPreserved" classname="FlattenerTest" time="0.0"/>
+  <testcase name="testFiveLevelsOfNestingWithNoNulls" classname="FlattenerTest" time="0.0"/>
+  <testcase name="testNestedListsFullOfNullsOnly" classname="FlattenerTest" time="0.0"/>
+  <testcase name="testSixLevelsOfNestingWithNoNulls" classname="FlattenerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
