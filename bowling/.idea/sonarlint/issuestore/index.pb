@@ -13,11 +13,11 @@ E
 .exercism/config.json,9\c\9cdaa1c2c70f6da4a5ae33e3da467f983de4adad
 G
 .exercism/metadata.json,2\c\2cbac32e6a9e9cfcbbc27de723d88d5934a134c2
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-R
-"src/test/java/BowlingGameTest.java,2\2\221b1403d8ce3f88eac75a9477503d59b0a6da2e
-N
-src/main/java/BowlingGame.java,5\1\51f9f69f58ba3e7e71f99f1b0d1465be54411204
 7
 HELP.md,1\a\1a273f73b7a477b0745593641bd708a6182c7ad5
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+N
+src/main/java/BowlingGame.java,5\1\51f9f69f58ba3e7e71f99f1b0d1465be54411204
+R
+"src/test/java/BowlingGameTest.java,2\2\221b1403d8ce3f88eac75a9477503d59b0a6da2e
