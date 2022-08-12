@@ -1,6 +1,5 @@
 import static org.assertj.core.api.Assertions.assertThat;
 
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class DoublyLinkedListTest {
@@ -18,7 +17,6 @@ public class DoublyLinkedListTest {
         assertThat(list.pop()).isEqualTo(10);
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testPushShift() {
         DoublyLinkedList<String> list = new DoublyLinkedList<>();
@@ -32,7 +30,6 @@ public class DoublyLinkedListTest {
         assertThat(list.shift()).isEqualTo("30");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testUnshiftShift() {
         DoublyLinkedList<Character> list = new DoublyLinkedList<>();
@@ -46,7 +43,6 @@ public class DoublyLinkedListTest {
         assertThat(list.shift()).isEqualTo('1');
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testUnshiftPop() {
         DoublyLinkedList<Integer> list = new DoublyLinkedList<>();
@@ -60,7 +56,6 @@ public class DoublyLinkedListTest {
         assertThat(list.pop()).isEqualTo(30);
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testExample() {
         DoublyLinkedList<String> list = new DoublyLinkedList<>();
@@ -81,5 +76,4 @@ public class DoublyLinkedListTest {
         assertThat(list.pop()).isEqualTo("fifty");
         assertThat(list.shift()).isEqualTo("thirty");
     }
-
 }
