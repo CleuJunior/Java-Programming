@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhoneNumberTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-12-29T11:29:13" hostname="CLEONILDO-JUNIO" time="0.04">
+  <properties/>
+  <testcase name="invalidWhen9Digits" classname="PhoneNumberTest" time="0.032"/>
+  <testcase name="invalidIfAreaCodeStartsWith0OnValid11DigitNumber" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalidIfAreaCodeStartsWith1OnValid11DigitNumber" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidWhenMoreThan11Digits" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalidIfExchangeCodeStartsWith0OnValid11DigitNumber" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidIfExchangeCodeStartsWith1OnValid11DigitNumber" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalidWhen11DigitsDoesNotStartWith1" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidWithLetters" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="cleansNumbersWithMultipleSpaces" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="cleansTheNumber" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="validWhen11DigitsAndStartingWith1" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidWithPunctuations" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="cleansNumbersWithDots" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="validWhen11DigitsAndStartingWith1EvenWithPunctuation" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidIfAreaCodeStartsWith0" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalidIfAreaCodeStartsWith1" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalidIfExchangeCodeStartsWith0" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidIfExchangeCodeStartsWith1" classname="PhoneNumberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
