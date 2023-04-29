@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HighScoresTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-04-29T16:28:17" hostname="CLEONILDO-JUNIO" time="0.039">
+  <properties/>
+  <testcase name="callingLatestAfterPersonalBest" classname="HighScoresTest" time="0.033"/>
+  <testcase name="shouldReturnPersonalTopThreeFromListOfScores" classname="HighScoresTest" time="0.005"/>
+  <testcase name="shouldReturnPersonalBest" classname="HighScoresTest" time="0.0"/>
+  <testcase name="shouldReturnListOfScores" classname="HighScoresTest" time="0.0"/>
+  <testcase name="shouldReturnLatestAddedScore" classname="HighScoresTest" time="0.0"/>
+  <testcase name="callingLatestAfterPersonalTopThree" classname="HighScoresTest" time="0.0"/>
+  <testcase name="callingScoresAfterPersonalTopThree" classname="HighScoresTest" time="0.0"/>
+  <testcase name="shouldReturnPersonalTopWhenThereIsOnlyOneScore" classname="HighScoresTest" time="0.0"/>
+  <testcase name="callingScoresAfterPersonalBest" classname="HighScoresTest" time="0.0"/>
+  <testcase name="shouldReturnPersonalTopThreeWhenThereIsATie" classname="HighScoresTest" time="0.0"/>
+  <testcase name="shouldReturnPersonalTopThreeSortedHighestToLowest" classname="HighScoresTest" time="0.0"/>
+  <testcase name="shouldReturnPersonalTopWhenThereIsLessThanThreeScores" classname="HighScoresTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
