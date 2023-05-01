@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinarySearchTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-05-01T19:24:25" hostname="CLEONILDO-JUNIO" time="0.043">
+  <properties/>
+  <testcase name="identifiesThatAValueIsNotFoundInTheArray" classname="BinarySearchTest" time="0.038"/>
+  <testcase name="nothingIsFoundWhenTheLeftAndRightBoundCross" classname="BinarySearchTest" time="0.001"/>
+  <testcase name="findsAValueInAnArrayWithOneElement" classname="BinarySearchTest" time="0.002"/>
+  <testcase name="aValueLargerThanTheArraysSmallestValueIsNotFound" classname="BinarySearchTest" time="0.0"/>
+  <testcase name="findsAValueInAnArrayOfOddLength" classname="BinarySearchTest" time="0.0"/>
+  <testcase name="findsAValueAtTheEndOfAnArray" classname="BinarySearchTest" time="0.0"/>
+  <testcase name="aValueSmallerThanTheArraysSmallestValueIsNotFound" classname="BinarySearchTest" time="0.001"/>
+  <testcase name="findsAValueInAnArrayOfEvenLength" classname="BinarySearchTest" time="0.0"/>
+  <testcase name="findsAValueAtTheBeginningOfAnArray" classname="BinarySearchTest" time="0.0"/>
+  <testcase name="nothingIsFoundInAnEmptyArray" classname="BinarySearchTest" time="0.001"/>
+  <testcase name="findsAValueInTheMiddleOfAnArray" classname="BinarySearchTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
