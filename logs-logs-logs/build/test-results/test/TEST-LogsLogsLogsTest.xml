@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogsLogsLogsTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-01-20T03:11:55" hostname="DEV" time="0.075">
+  <properties/>
+  <testcase name="Get short log output for log level INFO" classname="LogsLogsLogsTest" time="0.05"/>
+  <testcase name="Parsing unknown log level ABC" classname="LogsLogsLogsTest" time="0.003"/>
+  <testcase name="Parsing log level DBG" classname="LogsLogsLogsTest" time="0.001"/>
+  <testcase name="Parsing log level ERR" classname="LogsLogsLogsTest" time="0.0"/>
+  <testcase name="Parsing log level FTL" classname="LogsLogsLogsTest" time="0.001"/>
+  <testcase name="Parsing log level INF" classname="LogsLogsLogsTest" time="0.0"/>
+  <testcase name="Parsing log level WRN" classname="LogsLogsLogsTest" time="0.001"/>
+  <testcase name="Parsing unknown log level XYZ" classname="LogsLogsLogsTest" time="0.001"/>
+  <testcase name="Get short log output for log level WARNING" classname="LogsLogsLogsTest" time="0.001"/>
+  <testcase name="Parsing log level TRC" classname="LogsLogsLogsTest" time="0.001"/>
+  <testcase name="Get short log output for log level UNKNOWN" classname="LogsLogsLogsTest" time="0.001"/>
+  <testcase name="Get short log output for log level DEBUG" classname="LogsLogsLogsTest" time="0.001"/>
+  <testcase name="Get short log output for log level ERROR" classname="LogsLogsLogsTest" time="0.0"/>
+  <testcase name="Get short log output for log level FATAL" classname="LogsLogsLogsTest" time="0.0"/>
+  <testcase name="Get short log output for log level TRACE" classname="LogsLogsLogsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

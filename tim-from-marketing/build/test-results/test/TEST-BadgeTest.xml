@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BadgeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-20T00:47:58" hostname="DEV" time="0.047">
+<testsuite name="BadgeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-20T02:34:38" hostname="DEV" time="0.048">
   <properties/>
-  <testcase name="Printing a badge for the owner" classname="BadgeTest" time="0.043"/>
+  <testcase name="Printing a badge for the owner" classname="BadgeTest" time="0.044"/>
   <testcase name="Printing a badge for a new employee" classname="BadgeTest" time="0.0"/>
-  <testcase name="Printing a badge for an employee" classname="BadgeTest" time="0.001"/>
-  <testcase name="Printing a badge for the owner who is a new employee" classname="BadgeTest" time="0.0"/>
+  <testcase name="Printing a badge for an employee" classname="BadgeTest" time="0.0"/>
+  <testcase name="Printing a badge for the owner who is a new employee" classname="BadgeTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
