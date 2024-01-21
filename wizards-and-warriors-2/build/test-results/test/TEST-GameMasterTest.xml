@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameMasterTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-01-21T18:14:52" hostname="DEV" time="0.077">
+  <properties/>
+  <testcase name="Describe the travel method: walking" classname="GameMasterTest" time="0.054"/>
+  <testcase name="Implemented the describeTravelMethod method" classname="GameMasterTest" time="0.002"/>
+  <testcase name="Describe a character by class: Wizard" classname="GameMasterTest" time="0.001"/>
+  <testcase name="Describe a character traveling to a destination" classname="GameMasterTest" time="0.007"/>
+  <testcase name="Describe a destination: Tol Honeth" classname="GameMasterTest" time="0.001"/>
+  <testcase name="Implemented the describeDestination method" classname="GameMasterTest" time="0.0"/>
+  <testcase name="Implemented the describeCharacter method" classname="GameMasterTest" time="0.001"/>
+  <testcase name="Describe the travel method: horseback" classname="GameMasterTest" time="0.001"/>
+  <testcase name="Implemented the describeCharacterToDestination method" classname="GameMasterTest" time="0.001"/>
+  <testcase name="Combined description should handle character and destination with default travel method" classname="GameMasterTest" time="0.0"/>
+  <testcase name="Describe a destination: Ashaba" classname="GameMasterTest" time="0.0"/>
+  <testcase name="Implemented the describeCharacterToDestinationByTravelMethod method" classname="GameMasterTest" time="0.0"/>
+  <testcase name="Describe a character by class: Warrior" classname="GameMasterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
