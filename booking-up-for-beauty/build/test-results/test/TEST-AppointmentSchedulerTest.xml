@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppointmentSchedulerTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2024-01-22T11:33:16" hostname="DEV" time="0.1">
+  <properties/>
+  <testcase name="Noon appointment is an afternoon appointment" classname="AppointmentSchedulerTest" time="0.044"/>
+  <testcase name="Early evening appointment is not an afternoon appointment" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Appointment hours from now has not passed" classname="AppointmentSchedulerTest" time="0.004"/>
+  <testcase name="Appointment from hours ago has passed" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Late evening appointment is not an afternoon appointment" classname="AppointmentSchedulerTest" time="0.0"/>
+  <testcase name="Appointment days from now has not passed" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Appointment from one minute ago has passed" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Description on Friday afternoon" classname="AppointmentSchedulerTest" time="0.02"/>
+  <testcase name="Appointment from days ago has passed" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Early morning appointment is not an afternoon appointment" classname="AppointmentSchedulerTest" time="0.0"/>
+  <testcase name="Appointment minutes from now has not passed" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Appointment from months ago has passed" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Description on Wednesday morning" classname="AppointmentSchedulerTest" time="0.0"/>
+  <testcase name="Scheduling a date" classname="AppointmentSchedulerTest" time="0.002"/>
+  <testcase name="Early afternoon appointment is an afternoon appointment" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Late morning appointment is not an afternoon appointment" classname="AppointmentSchedulerTest" time="0.0"/>
+  <testcase name="Late morning appointment is an afternoon appointment" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Appointment from minutes ago has passed" classname="AppointmentSchedulerTest" time="0.0"/>
+  <testcase name="Appointment years from now has not passed" classname="AppointmentSchedulerTest" time="0.0"/>
+  <testcase name="The anniversary date" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Description on Thursday afternoon" classname="AppointmentSchedulerTest" time="0.001"/>
+  <testcase name="Appointment months from now has not passed" classname="AppointmentSchedulerTest" time="0.0"/>
+  <testcase name="Appointment from one year ago has passed" classname="AppointmentSchedulerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
