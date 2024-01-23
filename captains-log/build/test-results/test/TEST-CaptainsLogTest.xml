@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CaptainsLogTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-01-23T02:27:55" hostname="DEV" time="0.061">
+  <properties/>
+  <testcase name="Generating a random stardate" classname="CaptainsLogTest" time="0.045"/>
+  <testcase name="Generated stardates are valid" classname="CaptainsLogTest" time="0.003"/>
+  <testcase name="Generated ship registry numbers are valid" classname="CaptainsLogTest" time="0.004"/>
+  <testcase name="Generating a random ship registry number" classname="CaptainsLogTest" time="0.002"/>
+  <testcase name="Generated planet classes are valid" classname="CaptainsLogTest" time="0.002"/>
+  <testcase name="Generating a random planet class" classname="CaptainsLogTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
