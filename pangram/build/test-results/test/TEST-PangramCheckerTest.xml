@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PangramCheckerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-01-24T11:29:26" hostname="DEV" time="0.064">
+  <properties/>
+  <testcase name="perfectLowerCasePhraseIsPangram()" classname="PangramCheckerTest" time="0.05"/>
+  <testcase name="phraseWithNumbersIsPangram()" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="phraseWithUnderscoresIsPangram()" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="phraseWithOnlyLowerCaseIsPangram()" classname="PangramCheckerTest" time="0.0"/>
+  <testcase name="phraseMissingCharacterXIsNotPangram()" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="phraseMissingCharacterHIsNotPangram()" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="phraseWithMissingLettersReplacedByNumbersIsNotPangram()" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="emptySentenceIsNotPangram()" classname="PangramCheckerTest" time="0.001"/>
+  <testcase name="phraseWithMixedCaseAndPunctuationIsPangram()" classname="PangramCheckerTest" time="0.0"/>
+  <testcase name="caseInsensitivePhraseIsNotPangram()" classname="PangramCheckerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
