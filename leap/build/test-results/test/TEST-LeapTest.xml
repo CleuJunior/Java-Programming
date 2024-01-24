@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LeapTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-01-24T23:30:10" hostname="DEV" time="0.076">
+  <properties/>
+  <testcase name="testYearDivBy100NotDivBy3IsNotLeapYear()" classname="LeapTest" time="0.062"/>
+  <testcase name="testYearDivBy2NotDivBy4InCommonYear()" classname="LeapTest" time="0.001"/>
+  <testcase name="testYearDivBy400InLeapYear()" classname="LeapTest" time="0.001"/>
+  <testcase name="testYearNotDivBy4InCommonYear()" classname="LeapTest" time="0.001"/>
+  <testcase name="testYearDivBy4NotDivBy100InLeapYear()" classname="LeapTest" time="0.001"/>
+  <testcase name="testYearDivBy400NotDivBy125IsLeapYear()" classname="LeapTest" time="0.001"/>
+  <testcase name="testYearDivBy100NotDivBy400InCommonYear()" classname="LeapTest" time="0.001"/>
+  <testcase name="testYearDivBy200NotDivBy400InCommonYear()" classname="LeapTest" time="0.0"/>
+  <testcase name="testYearDivBy4And5InLeapYear()" classname="LeapTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
