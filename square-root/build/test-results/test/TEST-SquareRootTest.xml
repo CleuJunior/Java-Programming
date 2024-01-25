@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SquareRootTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-01-25T23:21:50" hostname="DEV" time="0.05">
+  <properties/>
+  <testcase name="Square root of 65025" classname="SquareRootTest" time="0.044"/>
+  <testcase name="Square root of 1" classname="SquareRootTest" time="0.001"/>
+  <testcase name="Square root of 4" classname="SquareRootTest" time="0.001"/>
+  <testcase name="Square root of 196" classname="SquareRootTest" time="0.0"/>
+  <testcase name="Square root of 25" classname="SquareRootTest" time="0.0"/>
+  <testcase name="Square root of 81" classname="SquareRootTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
