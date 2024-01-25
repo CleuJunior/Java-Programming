@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumOfMultiplesTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2024-01-25T11:06:45" hostname="DEV" time="0.074">
+  <properties/>
+  <testcase name="testOneFactorIsAMultipleOfAnother()" classname="SumOfMultiplesTest" time="0.048"/>
+  <testcase name="testThreeFactors()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testMuchLargerFactors()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testNoMultiplesWithinLimit()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testSumOfMultiplesOfZeroIsZero()" classname="SumOfMultiplesTest" time="0.0"/>
+  <testcase name="testNoFactorsMeanAnEmptySum()" classname="SumOfMultiplesTest" time="0.0"/>
+  <testcase name="testMoreThanOneMultipleWithinLimit()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testFactorZeroDoesNotAffectTheSumOfMultiplesOfOtherFactors()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testAllNumbersAreMultiplesOf1()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testMoreThanOneFactorWithMultiplesWithinLimit()" classname="SumOfMultiplesTest" time="0.0"/>
+  <testcase name="testOneFactorHasMultiplesWithinLimit()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testAMuchLargerLimit()" classname="SumOfMultiplesTest" time="0.0"/>
+  <testcase name="testEachMultipleIsOnlyCountedOnce()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testSomePairsOfFactorsRelativelyPrimeAndSomeNot()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testFactorsNotRelativelyPrime()" classname="SumOfMultiplesTest" time="0.001"/>
+  <testcase name="testSolutionsUsingIncludeExcludeMustExtendToCardinalityGreater3()" classname="SumOfMultiplesTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
