@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2024-01-27T16:06:50" hostname="DEV" time="0.073">
+  <properties/>
+  <testcase name="movingWestAndNorth()" classname="RobotTest" time="0.048"/>
+  <testcase name="movingWestAndSouth()" classname="RobotTest" time="0.001"/>
+  <testcase name="atNegativePositionFacingSouth()" classname="RobotTest" time="0.001"/>
+  <testcase name="movingEastAndNorth()" classname="RobotTest" time="0.001"/>
+  <testcase name="changesNorthToEast()" classname="RobotTest" time="0.0"/>
+  <testcase name="changesNorthToWest()" classname="RobotTest" time="0.001"/>
+  <testcase name="changesEastToNorth()" classname="RobotTest" time="0.001"/>
+  <testcase name="changesEastToSouth()" classname="RobotTest" time="0.0"/>
+  <testcase name="facingWestDecrementsX()" classname="RobotTest" time="0.001"/>
+  <testcase name="atOriginFacingNorth()" classname="RobotTest" time="0.001"/>
+  <testcase name="facingSouthDecrementsY()" classname="RobotTest" time="0.001"/>
+  <testcase name="movingEastAndNorthFromReadme()" classname="RobotTest" time="0.001"/>
+  <testcase name="changesWestToNorth()" classname="RobotTest" time="0.001"/>
+  <testcase name="changesWestToSouth()" classname="RobotTest" time="0.001"/>
+  <testcase name="facingNorthIncrementsY()" classname="RobotTest" time="0.001"/>
+  <testcase name="changesSouthToEast()" classname="RobotTest" time="0.001"/>
+  <testcase name="changesSouthToWest()" classname="RobotTest" time="0.001"/>
+  <testcase name="facingEastIncrementsX()" classname="RobotTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
