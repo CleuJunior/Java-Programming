@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResistorColorTrioTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-02-09T11:50:35" hostname="DEV" time="0.056">
+  <properties/>
+  <testcase name="testBlueAndVioletAndBlue()" classname="ResistorColorTrioTest" time="0.046"/>
+  <testcase name="testOrangeAndOrangeAndBlack()" classname="ResistorColorTrioTest" time="0.001"/>
+  <testcase name="testWhiteAndWhiteAndWhite()" classname="ResistorColorTrioTest" time="0.001"/>
+  <testcase name="testYellowAndVioletAndYellow()" classname="ResistorColorTrioTest" time="0.001"/>
+  <testcase name="testGreenAndBrownAndOrange()" classname="ResistorColorTrioTest" time="0.001"/>
+  <testcase name="testRedAndBlackAndRed()" classname="ResistorColorTrioTest" time="0.001"/>
+  <testcase name="testIgnoreExtraColors()" classname="ResistorColorTrioTest" time="0.001"/>
+  <testcase name="testBlackAndBlackAndBlack()" classname="ResistorColorTrioTest" time="0.001"/>
+  <testcase name="testFirstTwoColorsMakeAnInvalidOctalNumber()" classname="ResistorColorTrioTest" time="0.0"/>
+  <testcase name="testBlueAndGreyAndBrown()" classname="ResistorColorTrioTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
