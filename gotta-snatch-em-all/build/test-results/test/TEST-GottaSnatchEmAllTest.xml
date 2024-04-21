@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GottaSnatchEmAllTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2024-04-21T17:36:35" hostname="DEV" time="0.072">
+  <properties/>
+  <testcase name="allCards returns a set with all cards when given multiple collections" classname="GottaSnatchEmAllTest" time="0.048"/>
+  <testcase name="canTrade returns false when their collections is empty" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="newCollection returns a set with one card when given a list with one card" classname="GottaSnatchEmAllTest" time="0.0"/>
+  <testcase name="commonCards returns a set with cards present in all given collections" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="newCollection returns a set with two cards when given a list with two unique cards" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="canTrade returns false when both collections have the same cards" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="canTrade returns true when both collections have at least one card the other doesn't have" classname="GottaSnatchEmAllTest" time="0.0"/>
+  <testcase name="canTrade returns true when my collection is a non-empty subset of their collection" classname="GottaSnatchEmAllTest" time="0.0"/>
+  <testcase name="addCard returns true when the collection does not yet contain the new card" classname="GottaSnatchEmAllTest" time="0.0"/>
+  <testcase name="commonCards returns an empty set when all cards are different" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="canTrade returns false when both collections are empty" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="canTrade returns false when my collections is empty" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="canTrade returns true when both collections have unique cards" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="canTrade returns false when their collection is a non-empty subset of my collection" classname="GottaSnatchEmAllTest" time="0.0"/>
+  <testcase name="addCard doesn't add the card to the collection when it already contains the new card" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="allCards returns a set with all cards when given a single collection" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="addCard adds the card to the collection when it is a new card" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="newCollection returns an empty set when given an empty list" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="newCollection returns a set with one card when given a list with one repeated card" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <testcase name="addCard returns false when the collection already contains the new card" classname="GottaSnatchEmAllTest" time="0.0"/>
+  <testcase name="commonCards returns a set with all cards when given a single collection" classname="GottaSnatchEmAllTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
