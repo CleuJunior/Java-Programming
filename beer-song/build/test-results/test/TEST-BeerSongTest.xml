@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BeerSongTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-04-02T17:47:18" hostname="CLEONILDO-JUNIO" time="0.012">
+<testsuite name="BeerSongTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-02-09T21:10:15" hostname="DEV" time="0.009">
   <properties/>
-  <testcase name="singFirstTwoVerses" classname="BeerSongTest" time="0.01"/>
-  <testcase name="singEntireSong" classname="BeerSongTest" time="0.001"/>
+  <testcase name="singFirstTwoVerses" classname="BeerSongTest" time="0.007"/>
+  <testcase name="singEntireSong" classname="BeerSongTest" time="0.0"/>
   <testcase name="singLastGenericVerse" classname="BeerSongTest" time="0.001"/>
   <testcase name="singLastThreeVerses" classname="BeerSongTest" time="0.0"/>
   <testcase name="singFirstVerse" classname="BeerSongTest" time="0.0"/>
