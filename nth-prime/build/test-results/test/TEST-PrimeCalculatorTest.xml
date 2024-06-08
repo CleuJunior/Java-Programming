@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-27T16:58:42" hostname="DEV" time="0.079">
+  <properties/>
+  <testcase name="testUndefinedPrime()" classname="PrimeCalculatorTest" time="0.079"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
