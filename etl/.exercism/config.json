@@ -1,0 +1,46 @@
+{
+  "authors": [
+    "sit"
+  ],
+  "contributors": [
+    "alebaffa",
+    "di72nn",
+    "FridaTveit",
+    "javaeeeee",
+    "jmrunkle",
+    "jtigger",
+    "kytrinyx",
+    "lemoncurry",
+    "made-by-traxam",
+    "matthewmorgan",
+    "morrme",
+    "msomji",
+    "muzimuzhi",
+    "redshirt4",
+    "sjwarner-bp",
+    "SleeplessByte",
+    "Smarticles101",
+    "sshine",
+    "stkent",
+    "superklamer",
+    "vdemeester",
+    "Zaldrick"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/Etl.java"
+    ],
+    "test": [
+      "src/test/java/EtlTest.java"
+    ],
+    "example": [
+      ".meta/src/reference/java/Etl.java"
+    ],
+    "invalidator": [
+      "build.gradle"
+    ]
+  },
+  "blurb": "Change the data format for scoring a game to more easily add other languages.",
+  "source": "Based on an exercise by the JumpstartLab team for students at The Turing School of Software and Design.",
+  "source_url": "https://turing.edu"
+}
