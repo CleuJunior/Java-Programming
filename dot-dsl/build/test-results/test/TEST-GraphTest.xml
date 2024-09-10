@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GraphTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-09-10T02:31:33" hostname="cleonildo-junior" time="0.056">
+  <properties/>
+  <testcase name="empty graph" classname="GraphTest" time="0.041"/>
+  <testcase name="graph with attributes" classname="GraphTest" time="0.004"/>
+  <testcase name="graph with one edge with keywords" classname="GraphTest" time="0.002"/>
+  <testcase name="graph with one edge" classname="GraphTest" time="0.0"/>
+  <testcase name="graph with one node" classname="GraphTest" time="0.001"/>
+  <testcase name="graph with one attribute" classname="GraphTest" time="0.001"/>
+  <testcase name="graph with one node with keywords" classname="GraphTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
