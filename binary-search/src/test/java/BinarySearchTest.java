@@ -1,11 +1,10 @@
-import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
-
-import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.Collections;
 import java.util.List;
+
+import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
 
 public class BinarySearchTest {
 
@@ -15,7 +14,7 @@ public class BinarySearchTest {
 
         BinarySearch search = new BinarySearch(listOfUnitLength);
 
-        assertThat(search.indexOf(6)).isEqualTo(0);
+        assertThat(search.indexOf(6)).isZero();
     }
 
     @Test
@@ -33,7 +32,7 @@ public class BinarySearchTest {
 
         BinarySearch search = new BinarySearch(sortedList);
 
-        assertThat(search.indexOf(1)).isEqualTo(0);
+        assertThat(search.indexOf(1)).isZero();
     }
 
     @Test
@@ -86,7 +85,7 @@ public class BinarySearchTest {
     }
 
     @Test
-    public void aValueLargerThanTheArraysSmallestValueIsNotFound() throws ValueNotFoundException {
+    public void aValueLargerThanTheArraysSmallestValueIsNotFound() {
         List<Integer> sortedList = List.of(1, 3, 4, 6, 8, 9, 11);
 
         BinarySearch search = new BinarySearch(sortedList);
@@ -97,7 +96,7 @@ public class BinarySearchTest {
     }
 
     @Test
-    public void nothingIsFoundInAnEmptyArray() throws ValueNotFoundException {
+    public void nothingIsFoundInAnEmptyArray() {
         List<Integer> emptyList = Collections.emptyList();
 
         BinarySearch search = new BinarySearch(emptyList);
@@ -108,7 +107,7 @@ public class BinarySearchTest {
     }
 
     @Test
-    public void nothingIsFoundWhenTheLeftAndRightBoundCross() throws ValueNotFoundException {
+    public void nothingIsFoundWhenTheLeftAndRightBoundCross() {
         List<Integer> sortedList = List.of(1, 2);
 
         BinarySearch search = new BinarySearch(sortedList);
